@@ -1,4 +1,3 @@
 Sample 
- file
-
 second line
+ fileThis text is added from branch
