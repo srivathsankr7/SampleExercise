@@ -1,4 +1,5 @@
 Sample file2
 new line in local to create conflict
 2nd change
+3rd change
 4th line
